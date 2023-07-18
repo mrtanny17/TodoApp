@@ -1,4 +1,4 @@
-# My Awesome Todo App
+#Todo App
 
 ![App Demo](/path/to/demo.gif)
 
@@ -12,9 +12,6 @@ A simple and elegant Todo app to help you stay organized and manage your tasks e
 - Filter tasks based on their status (All, Completed, Pending).
 - Responsive design for seamless usage on different devices.
 
-## Demo
-
-Check out the live demo [here](https://www.example.com/todo-app-demo).
 
 ## Screenshots
 

@@ -33,5 +33,5 @@ Check out the live demo [here](https://www.example.com/todo-app-demo).
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/mrtann17/todo-app.git
 cd todo-app

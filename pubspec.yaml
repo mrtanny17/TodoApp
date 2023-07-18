@@ -1,0 +1,22 @@
+name: todo_app
+description: A simple Todo App built with Flutter.
+version: 1.0.0
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.0.8
+  flutter_svg: ^0.22.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/todo_icon.svg
+
+

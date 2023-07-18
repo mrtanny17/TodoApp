@@ -16,7 +16,7 @@ A simple and elegant Todo app to help you stay organized and manage your tasks e
 ## Screenshots
 
 ![All tasks preview](assets/Preview1.png)
-
+![Add Task Preview](assets/Preview2.png)
 
 ## Technologies Used
 

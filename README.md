@@ -21,7 +21,6 @@ A simple and elegant Todo app to help you stay organized and manage your tasks e
 ## Technologies Used
 
 - Flutter: A cross-platform mobile app development framework.
-- Firebase Firestore: To store and sync task data in real-time.
 - Provider: For state management and data sharing.
 - Responsive Design: Utilizing Flutter's layout widgets for a consistent UI on various devices.
 
